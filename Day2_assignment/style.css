@@ -1,0 +1,12 @@
+.italic {
+    font-style: italic;
+}
+.blue-text {
+    color: white;
+    font-size: 4rem;
+    text-align: center;
+}
+.white-text{
+    color:green;
+    font-size: 3rem;
+}
